@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BugTracker", "BugTracker\BugTracker.csproj", "{B81DA337-E340-4D8C-969A-318D73E450F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BugTrackerTests", "BugTrackerTests\BugTrackerTests.csproj", "{0B74FD01-FF15-4ED0-ACBB-FF10C07A2C6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BugTracker.Frontend", "BugTracker.Frontend\BugTracker.Frontend.csproj", "{73C2F2A7-DDD3-49FD-8D64-E54AF65E4EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B81DA337-E340-4D8C-969A-318D73E450F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B81DA337-E340-4D8C-969A-318D73E450F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B81DA337-E340-4D8C-969A-318D73E450F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B81DA337-E340-4D8C-969A-318D73E450F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B74FD01-FF15-4ED0-ACBB-FF10C07A2C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B74FD01-FF15-4ED0-ACBB-FF10C07A2C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B74FD01-FF15-4ED0-ACBB-FF10C07A2C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B74FD01-FF15-4ED0-ACBB-FF10C07A2C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73C2F2A7-DDD3-49FD-8D64-E54AF65E4EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C2F2A7-DDD3-49FD-8D64-E54AF65E4EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C2F2A7-DDD3-49FD-8D64-E54AF65E4EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C2F2A7-DDD3-49FD-8D64-E54AF65E4EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
